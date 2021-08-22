@@ -1,0 +1,24 @@
+{
+  "name": "formik-09x-synchronous-validation-example-forked",
+  "version": "0.0.0",
+  "description": "This is an example of a simple email validation form with React.js and Formik's HoC using a custom synchronous validator.",
+  "keywords": [
+    "react",
+    "formik"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "15.5.3",
+    "react": "15.5.3",
+    "formik": "0.9.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
